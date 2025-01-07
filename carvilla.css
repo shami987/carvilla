@@ -9,7 +9,7 @@ margin: 0px;
 .banner{
     width: 100%;
     height: 166vh;
-    background-image: linear-gradient(rgba(41, 48, 70, 0.75),rgba(41, 48, 70, 0.75)),url(welcome-banner.jpg);
+    background-image: linear-gradient(rgba(58, 96, 219, 0),rgba(58, 96, 219, 0)),url(welcome-banner.jpg);
     background-position: center;
     background-size: cover;
 
